@@ -1,5 +1,5 @@
 <center> <h1>HBNB - The Console</h1> </center>
-<center> <h4>ALX AirBnB Clone project</h4> </center>
+
 
 ----
 This is the first portion of a project to build a clone of the AirBnB website. The first goal of this project is to create a program that serializes and deserializes objects into json files, and reloads them on startup for use between sessions, or in other words making the data persist between sessions.
@@ -95,4 +95,8 @@ Usage: update <class_name> <class_id>
 [BaseModel] (b405fc64-9724-498f-b405-e4071c3d857f) {'id': 'b405fc64-9724-498f-b405-e4071c3d857f', 'created_at': datetime.datetime(2020, 2, 18, 14, 33, 45, 729889), 
 'updated_at': datetime.datetime(2020, 2, 18, 14, 33, 45, 729907), 'first_name': 'person'}
 (hbnb)
-```
+
+AUTHORS
+
+William Lamptey 
+Eucheria Kureva```
