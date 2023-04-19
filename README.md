@@ -96,7 +96,10 @@ Usage: update <class_name> <class_id>
 'updated_at': datetime.datetime(2020, 2, 18, 14, 33, 45, 729907), 'first_name': 'person'}
 (hbnb)
 
+```
+
+
 AUTHORS
 
-William Lamptey 
-Eucheria Kureva```
+	William Lamptey
+	Eucheria Kureva
